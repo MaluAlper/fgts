@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\bin\Debug\netcoreapp3.1\fgts.exe
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\bin\Debug\netcoreapp3.1\fgts.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\bin\Debug\netcoreapp3.1\fgts.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\bin\Debug\netcoreapp3.1\fgts.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\bin\Debug\netcoreapp3.1\fgts.dll
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\bin\Debug\netcoreapp3.1\fgts.pdb
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\obj\Debug\netcoreapp3.1\fgts.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\obj\Debug\netcoreapp3.1\fgts.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\obj\Debug\netcoreapp3.1\fgts.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\obj\Debug\netcoreapp3.1\fgts.dll
+C:\Users\Maria Luiza\Documents\Luiza\fgts\fgts\obj\Debug\netcoreapp3.1\fgts.pdb
